@@ -33,7 +33,7 @@
     "dotenv-webpack": "^1.8.0",
     "firebase": "^7.14.6",
     "material-ui": "^0.20.2",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "next-pwa": "^2.4.1",
     "next-redux-wrapper": "^4.0.1",
     "node-sass": "^4.14.1",
